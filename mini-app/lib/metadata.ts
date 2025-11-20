@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Futures Trading Bot App";
+export const description = "An automated bot that trades futures on cryptocurrency markets.";
 export const url = process.env.NEXT_PUBLIC_URL;
